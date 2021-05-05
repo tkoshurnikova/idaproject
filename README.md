@@ -1,4 +1,4 @@
-# ida-project-test-task
+# IDAProject Test Task
 
 ## Build Setup
 
